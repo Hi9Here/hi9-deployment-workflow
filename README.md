@@ -1,5 +1,5 @@
 # hi9-deployment-workflow
-Deployment Workflow for Hi9
+*Deployment Workflow for Hi9*
 
 ##Version Control
 *Each time that a New Version goes upto the Live Server using gulp-version-tag*
@@ -18,12 +18,12 @@ When a major release is done then
 ##Live Server
 Firebase App address for the Live Server is
 
-`https://hi9site.firebaseio.com/`
+[https://hi9site.firebaseio.com/](https://hi9site.firebaseio.com/)
 
 ##Testing Server
 Firebase App address for the Testing Server is
 
-`https://hi9-testing.firebaseio.com/`
+[https://hi9-testing.firebaseio.com/](https://hi9-testing.firebaseio.com/)
 
 
 
