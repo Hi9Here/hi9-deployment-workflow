@@ -15,6 +15,7 @@ Firebase App address for the Testing Server is
 
 [https://hi9-testing.firebaseio.com/](https://hi9-testing.firebaseio.com/)
 
+###Work on dev branch
 
-
+```firebase deploy``` will deploy to https://hi9-testing.firebaseio.com/ on dev branch
 
