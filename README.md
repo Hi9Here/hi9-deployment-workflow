@@ -23,6 +23,8 @@ Firebase App address for the Live Server is
 ##Testing Server
 Firebase App address for the Testing Server is
 
+`https://hi9-testing.firebaseio.com/`
+
 
 
 
