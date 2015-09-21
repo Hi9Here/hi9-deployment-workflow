@@ -1,6 +1,29 @@
 # hi9-deployment-workflow
 *Deployment Workflow for Hi9*
 
+##Workflow
+
+Github Issue and Trello Card with :T being on the Github Issue when it is in Trello. 
+
+Branch the Github repo with the identifier Issue No
+Push and Sync Branch with repo on that issue number
+Make sure you commit and push at least every hour
+
+Test Locally on that branch
+Create Demo
+Deploy to Testing Server using Firebase Deploy
+Inform Wo
+Move onto next card and issue
+
+QA
+Wo then takes over. 
+Wo Tests and creates Ghost Inspector for the demo of the element so a demo has to be created
+Merge Master
+Deploy to Dev
+Test
+Deploy to Live
+Move Card and Close Issue
+
 ##Version Control
 
 Wo will be doing the deployment, QA and Version control to the Live site.
