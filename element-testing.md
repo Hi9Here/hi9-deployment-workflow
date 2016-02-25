@@ -14,5 +14,22 @@ Check Imports are all being access. If not create or update bower.json file
 
 Make sure bower.json file has versions
 
+Add to Travis
+
+Add Travis File
+  node.js
+  wct
+  bower
+  gulp
+  firebase
+  
+  then
+  
+  bower install
+  
+  after success
+  gulp
+  firebase deploy
+
 
 
